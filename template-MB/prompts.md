@@ -6,7 +6,5 @@ Si tenes alguna duda haceme las preguntas que necesites y como resultado quiero 
 
 
 Hace las modificaciones para que se comporte de la siguiente manera:
-
 El botón debe aparecer solo cuando haya texto suficiente, es decir, más de 3 letras.
-
 La cadena invertida debe actualizarse en tiempo real, de forma que no dependa del botón.
